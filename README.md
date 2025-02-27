@@ -1,3 +1,4 @@
 # Multi Agent Stock Research Experiment
 
-Experimenting with multi agent research for stocks
+This is a POC of a multi agent pipeline where we give stock (NVDA) ratings by conducting qualitative analysis on its SEC filings using an LLM (Grok) and quantitative analysis on its financial data.
+
